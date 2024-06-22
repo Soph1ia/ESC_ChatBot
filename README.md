@@ -41,6 +41,3 @@ This is an environmental speciailist Chatbot (ESC) , the aim of this chatbot can
 - Up-to-date Information: Regularly update the knowledge base to reflect the **latest research, news, and trends in environmental science**.
 - **Recycling Guide:** Offer a guide on how to recycle various materials properly, tailored to local recycling regulations. (*implement for ireland*)
 
-
-
-
